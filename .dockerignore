@@ -1,0 +1,7 @@
+.git
+.gitignore
+TOTAL-GROUP-360.zip
+__pycache__
+*.pyc
+.env
+.env.*

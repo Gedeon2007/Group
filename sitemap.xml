@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Remplace https://VOTRE-DOMAINE.example par l’URL publique réelle avant publication. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://VOTRE-DOMAINE.example/</loc></url>
+  <url><loc>https://VOTRE-DOMAINE.example/inscription</loc></url>
+  <url><loc>https://VOTRE-DOMAINE.example/annonces</loc></url>
+  <url><loc>https://VOTRE-DOMAINE.example/champions</loc></url>
+  <url><loc>https://VOTRE-DOMAINE.example/confiance</loc></url>
+  <url><loc>https://VOTRE-DOMAINE.example/administrateurs</loc></url>
+  <url><loc>https://VOTRE-DOMAINE.example/contact</loc></url>
+</urlset>

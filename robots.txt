@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Remplace cette URL par le domaine public final.
+Sitemap: https://VOTRE-DOMAINE.example/sitemap.xml

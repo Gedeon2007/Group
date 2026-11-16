@@ -1,0 +1,11 @@
+{
+  "name": "TOTAL GROUP 360",
+  "short_name": "TG360",
+  "description": "Un groupe, trois univers, une famille à Lubumbashi.",
+  "lang": "fr-CD",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#FF6B00",
+  "icons": [{ "src": "/public/logo.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

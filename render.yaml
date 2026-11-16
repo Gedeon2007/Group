@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: total-group-360
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health.php
+    envVars:
+      - key: ALLOWED_ORIGIN
+        sync: false
+      - key: CONTACT_EMAIL
+        sync: false
+      - key: CONTACT_TRANSPORT
+        value: mail
